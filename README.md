@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Haroon Rasheed, a MERN Stack Developer
+# 👋 Hi, I'm Haroon Rasheed, a Full Stack MERN Developer
 
 🚀 Passionate about building **scalable, responsive, and modern web applications** using the MERN Stack.  
 I love transforming ideas into functional and visually appealing digital experiences.  
