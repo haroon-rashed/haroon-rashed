@@ -10,37 +10,36 @@
 
 ---
 
-## 🖥️ haroon@github
-
 ```text
-                    $BB%%$$$$$$$$$$$$$$$$$$$$$$$$@@@@@@@@@        haroon@github
-                    $$B&%$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$        ──────────────────────────────
-                    M@@8B$$$$$$$$$$$Wbqqa%$$$$$$$$$$$$$$$$        OS:              Windows 11
-                    _b$%B$$$$$$$$$O?,'  .;]J8$$$$$$$$$$$$$        Host:            NUML Islamabad
-                    -p$%B$$$$$$$$x. `l~1}~^ ~W$$$$$$$$$$$$        Age:             20
-                    -p$BB$$$$$$$W"IxZbahwOYI Y$$$$$$$$$$$$        Location:        Islamabad, Pakistan
-                    -p$BB$$$$$$$@/Uc1vkn])XC!p$$$$$$$$$$$$        Role:            Full Stack MERN Developer
-                    ?p$BB$$$$$$$$qd0Yw&QULm0fm$$$$$$$$$$$$
-                    ?p$BB$$$$$$$$qdWwCzfYqdz|d$$$$$$$$$$$$        Frontend:        React.js, Next.js
-                    [q$@B$$$$$$$$&YLfnj/(ju~O$$$$$$$$$$$$$                          Tailwind CSS, Material UI
-                    [q$@B$$$$$$$$$Wn1j]]{i;+JB$$$$$$$$$$$$                          Bootstrap
-                    [q$@B$$$$$$$$$$b[I'.'!(- <CW$$$$$$$$$$
-                    ]w$@B$$$$$$%dv),_Jnjcni    ,<1u0a8$$$$        Backend:         Node.js, Express.js
-                    ?w$@@$$%Qx[I.'. "udwt"          ';+|O$                          Laravel, PHP
-                    -w$@@$@{'   `^...+Z?                .J
-                    -w$@@$q`^'''^`...'^  .               :        Database:        MongoDB, MySQL
-                    -w$@@$f'^``'"'.. `. ..               '                          PostgreSQL
-                    ~w$@$%i'``''^..  .....
-                    ~m$@$d'.`'''`.. `'...                          Languages:       JavaScript, PHP, Python
-
-                                                                     Tools:           Git, GitHub, VS Code
-                                                                                      Postman, Docker
-
-                                                                     Learning:        AI Integration, DevOps
-                                                                                      Three.js
-
-                                                                     Portfolio:       haroon-builds-web.vercel.app
-                                                                     Email:           haronworkspace@gmail.com
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   haroon@github
+⠀⠀⠀⠀⠀⠠⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ──────────────────────────────
+⠀⠀⠀⠀⠀⠐⠀⠀⠀⡂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   OS:              Windows 11
+⠀⠀⠀⠀⠀⠈⠀⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Host:            NUML Islamabad
+⡀⠀⠀⠀⠀⠈⠀⠀⠀⠌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣀⣠⣤⣤⣶⣶⣶⣶⣶⣶⣷⣶⣶⣶⣴⣤⣄⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Age:             20
+⡂⠀⠀⠀⠀⠀⠁⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣿⣿⣿⣿⣿⣿⢿⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Location:        Islamabad, Pakistan
+⡂⠀⠀⠀⠀⠀⠂⠀⠀⢁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢤⣾⣾⣿⣽⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Role:            Full Stack MERN Developer
+⡂⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣟⣿⣿⣿⣷⣿⣿⣿⡿⡿⡻⢛⠝⠹⢙⠙⡘⠈⠄⠡⠐⡀⢂⠂⢅⢑⢙⢙⢛⢟⢿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   
+⡂⠀⠀⠀⠀⠀⠂⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢺⣿⣾⣿⣿⡟⠟⡙⠨⠐⠀⠂⠐⠈⠐⠐⢀⠂⠁⠌⢀⠁⠂⡁⠌⢐⢐⢐⢁⢂⢊⠯⣿⣿⣿⣿⣿⣿⣟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Frontend:        React.js, Next.js
+⡂⠀⠀⠀⠀⠀⠀⠀⠀⢈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠨⢿⣟⣿⠃⡊⡔⠴⢴⢲⢶⠾⢶⠵⡬⡢⠠⢐⢐⠬⡲⡫⡟⡾⡻⣛⢚⡓⣓⢓⠆⡑⠐⠙⢿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                    Tailwind CSS, Material UI
+⡂⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢅⡤⡀⡢⡊⣎⡦⢧⢷⢯⡳⡯⡲⡠⠁⠂⠰⡐⢕⢽⡺⣫⠽⡾⡗⡽⡺⡢⡃⢜⢘⠔⠲⣶⡽⠗⡠⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                    Bootstrap
+⡂⠀⠀⠀⠀⠀⠂⠀⠀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⠸⡅⠂⠄⠊⠐⢁⠃⡃⠣⠉⢊⠨⠀⠀⠈⠠⡈⡢⡑⡨⠊⠌⠊⠌⠨⠈⠄⡂⡑⡐⠅⠕⣽⡪⡂⠌⢌⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   
+⡂⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢊⠠⡃⠄⠂⠀⠀⢀⠀⠄⡂⢅⢂⢁⣀⠠⢈⣀⢢⣂⢌⢆⠅⢅⠁⠅⠨⠀⠅⡐⡐⡨⡘⣜⣾⡢⠌⡣⠢⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Backend:         Node.js, Express.js
+⠅⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠁⢹⡔⠠⠁⢌⢀⠂⢅⣊⣄⣢⢦⢷⠷⠷⡵⢷⢿⢮⢦⢮⣢⣥⡅⢅⢅⢑⠔⡰⡰⣪⢾⣻⠰⢁⠢⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                    Laravel, PHP
+⡃⠀⠀⠀⠀⠀⠁⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠐⠹⣎⠬⡐⠄⡊⠽⡟⡛⢎⠪⢊⠊⡃⡋⡑⡑⡭⡹⡹⡙⢟⢏⢆⢢⡡⡧⡳⣝⣮⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   
+⠅⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠻⣼⡱⣢⢱⡱⡰⡐⡑⠕⡟⡾⡻⡻⣛⢺⢘⢌⢎⣮⣳⣵⣱⣕⣯⣿⣿⢿⢃⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Database:        MongoDB, MySQL
+⡃⠀⠀⠀⠀⠀⠀⠀⠀⢈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢷⣟⣾⣗⣮⣮⣞⣮⣾⣽⣾⣞⣷⣟⣾⣷⣿⣷⣿⣾⣿⡿⡿⡹⡑⣼⣿⣦⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                    PostgreSQL
+⡅⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡝⠛⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⡿⡻⡹⡑⢕⣱⣾⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   
+⠆⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣠⣴⢾⣿⣿⡔⡠⢑⠩⠫⡛⡻⣛⢯⢻⡫⡻⡹⡹⡸⢸⢨⢪⣢⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣤⣤⣤⣀⣀⡀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Languages:       JavaScript, PHP, Python
+⡃⠀⠀⠀⠀⠀⠈⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣀⣤⣤⣶⣾⣾⣿⢯⣷⣿⣻⣿⣿⣿⣿⣮⡢⡊⢌⢂⠕⡨⡨⠢⡑⢅⠣⡊⡌⣆⣧⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣦⣦⣤⣠⣀⣀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   
+⡃⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣄⣤⣤⣶⣶⣾⣾⣿⣿⣿⣿⣿⣿⣟⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⡪⡏⡞⡔⠡⠊⡂⠊⠌⠌⢂⢡⣪⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣤⣤⣤⣀⠀   Tools:           Git, GitHub, VS Code
+⡃⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⢿⣻⣿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣷⣧⣊⢐⢁⠂⠄⢈⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿                    Postman, Docker
+⡃⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⢷⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣻⣷⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣔⢨⣐⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   
+⠇⠀⠀⠀⠀⠀⠄⠀⠀⠂⠀⠀⠀⠀⠀⠀⠀⢼⣿⣿⣟⣿⣿⣽⣿⡿⣿⣿⣟⣿⣾⣿⣿⣿⣟⣿⣽⡿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   Learning:        AI Integration, DevOps
+⡇⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⠀⠀⠀⠀⠀⢠⣿⣿⡿⣾⢿⣽⣿⣽⣿⣿⣟⣿⣿⣟⣿⣿⣟⣿⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣽⣧⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿                    Three.js
+⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡿⣾⣿⣟⣿⡿⣿⣻⣿⣽⣷⣿⣿⣿⣻⣿⣿⣻⣿⢾⣷⣿⣿⣿⣿⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   
+⡅⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⣼⣻⣿⣿⣿⢷⣿⣿⣿⣿⣻⣿⣻⣯⣿⣿⣿⣿⢿⣻⣿⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   Portfolio:       haroon-builds-web.vercel.app
+⠇⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⢰⣻⣿⣿⣿⣿⣿⣿⣿⣿⣽⣿⣿⣿⣿⣿⣯⣿⣿⣿⣿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   Email:           haronworkspace@gmail.com
+⡇⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣽⣷⣿⣿⣻⣿⣿⣾⣿⣿⣻⣿⣿⣽⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢻⡻⣿⣻⣿⣿⣿⣿⣿⣿⢿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   
 ```
 
 <p align="center">
@@ -90,14 +89,14 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=haroon-rashed&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroon-rashed&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=haroon-rashed&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=haroon-rashed&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haroon-rashed&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=haroon-rashed&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -113,7 +112,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=haroon-rashed&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-trophies.vercel.app/?username=haroon-rashed&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -133,4 +132,3 @@
 ![](https://komarev.com/ghpvc/?username=haroon-rashed&color=blueviolet&style=for-the-badge)
 
 </div>
-
