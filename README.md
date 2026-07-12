@@ -1,85 +1,226 @@
-# 👋 Hi, I'm Haroon Rasheed, a Full Stack MERN Developer
+<div align="center">
 
-🚀 Passionate about building **scalable, responsive, and modern web applications** using the MERN Stack.  
-I love transforming ideas into functional and visually appealing digital experiences.  
-Currently sharpening my skills in **Next.js**, **Three.js**, and **AI integration with Python**.
+# Hi 👋 I'm Haroon Rasheed
 
+### Full Stack MERN & Laravel Developer
 
-### 💼 Currently Working On
-- Building **modern web solutions** using React, Node.js, and Tailwind CSS  
-- Exploring **Next.js** and **API integrations**  
-- Enhancing real-world projects through **hands-on development**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Laravel;Node.js+%7C+MongoDB+%7C+MySQL;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 
-### 💬 Ask me about
-React, Node.js, Express.js, PHP, Laravel, Tailwind, MongoDB, APIs, and Full Stack Web Development  
-
- **Reach me at:** [haronworkspace@gmail.com](mailto:haronworkspace@gmail.com)  
- **Portfolio:** [haroon-builds-web.vercel.app](https://haroon-builds-web.vercel.app)  
- **GitHub:** [github.com/haroon-rashed](https://github.com/haroon-rashed)  
- **LinkedIn:** [linkedin.com/in/haroon-rasheed-a03a4333b](https://www.linkedin.com/in/haroon-rasheed-a03a4333b/)  
+</div>
 
 ---
 
-##   Skills and Tools
+<table>
+<tr>
 
-###  Frontend
-React.js • Next.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind • Bootstrap • jQuery • AJAX • Material UI • Chakra UI • Shadcn • Inertia.js
+<td width="32%" align="center">
 
-###  Backend
-Node.js • Express.js • PHP • Laravel • Python • Flask
+<img src="assets/profile.png" width="220" style="border-radius:50%;" />
 
-###  Technologies
-Redux • Context API • JWT • WebSockets • Axios • Fetch API • Clerk Auth
+# Haroon Rasheed
 
-###  Databases
-MongoDB • SQL • PostgreSQL • phpMyAdmin
+**Full Stack Developer**
 
-##  Languages and Tools I Use
+🇵🇰 Islamabad, Pakistan
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" title="Material UI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" title="jQuery" />
+[Portfolio](https://haroon-builds-web.vercel.app)
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" title="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask" />
+[LinkedIn](https://www.linkedin.com/in/haroon-rasheed-a03a4333b/)
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" />
+</td>
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="50" title="WebStorm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" title="Terminal / Bash" />
+<td width="68%">
 
-  <!-- Design -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" title="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" title="Canva" />
+```text
+haroon@github
+────────────────────────────────────────────
 
-  <!-- Productivity -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" title="WordPress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" title="NPM" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="50" title="Yarn" />
+OS:             Windows 11
+
+Age:            20
+
+Location:       Islamabad, Pakistan
+
+University:     NUML Islamabad
+
+Role:           Full Stack MERN Developer
+
+Frontend:
+                React.js
+                Next.js
+                Tailwind CSS
+                Material UI
+                Bootstrap
+
+Backend:
+                Node.js
+                Express.js
+                Laravel
+                PHP
+
+Database:
+                MongoDB
+                MySQL
+                PostgreSQL
+
+Languages:
+                JavaScript
+                PHP
+                Python
+
+Tools:
+                Git
+                GitHub
+                VS Code
+                Postman
+                Docker
+
+Learning:
+                AI Integration
+                DevOps
+                Three.js
+
+Portfolio:
+haroon-builds-web.vercel.app
+
+Email:
+haronworkspace@gmail.com
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🦷 **MultiDental** | Complete MERN E-Commerce platform |
+| 🚗 **RoadSmart Solution** | Laravel + Next.js Management System |
+| 🌳 **RebornGreen** | Tree Plantation Platform with Stripe |
+| 🏫 **University LMS** | Learning Management System |
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,redux"/>
+
 </p>
 
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma"/>
+
+</p>
 
 ---
 
-⭐ **"Code. Create. Contribute."**
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=haroon-rashed&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroon-rashed&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haroon-rashed&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haroon-rashed&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=haroon-rashed&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:haronworkspace@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/haroon-rasheed-a03a4333b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/haroon-rashed">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://haroon-builds-web.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Code • Create • Contribute"
+
+![](https://komarev.com/ghpvc/?username=haroon-rashed&color=blueviolet&style=for-the-badge)
+
+</div>
